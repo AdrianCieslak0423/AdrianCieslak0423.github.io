@@ -23,13 +23,13 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume-url: https://docs.google.com/document/d/1yK8Cm2YEOKSaFGZQnNGsTU0SV8gg2ZUfkZu1uot3paw/edit?tab=t.0
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: linkedin.com/in/adrian-cieslak-9785a4382
   github: leea12    # https://github.com/{your url slug} 
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
@@ -43,46 +43,29 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: 3D Modeling and FEA
     tools:
-    - Onshape
     - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
     - Siemens NX
-    - Inventor (Autodesk)
     - CATIA (Dassault Systèmes)
+    - ANSYS
   - category: Prototyping
     tools:
-    - SLA
     - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
+    - 3D Printing
+    - Milling & Grinding
     - Arduino / Raspberry Pi
     - Breadboarding for circuit testing
   - category: Design Standards / Practices
     tools:
     - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+    - ISO fits and tolerances  
+  - category: Problem Solving / Risk Management / Analysis
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
-    tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
+    - Root Cause Analysis
     - Six Sigma methodologies
-    - Shain Red-X
+    - Excel
+    
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
