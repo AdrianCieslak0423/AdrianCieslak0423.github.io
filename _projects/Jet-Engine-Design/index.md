@@ -11,6 +11,8 @@ skills:
 main-image: /JE Explosion.png
 ---
 
+## Jet Engine CAD Model
+
 ![Jet Engine Isometric View](JE iso.png)
 
 ![Jet Engine Exploded View](JE Explosion.png)
