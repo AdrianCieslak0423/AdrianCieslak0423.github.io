@@ -9,5 +9,5 @@ skills:
 - System Testing & Validation
 - SolidWorks
 - Assembly
-main-image: /project.rc car isometric.png
+main-image: /rc car isometric.png
 ---
