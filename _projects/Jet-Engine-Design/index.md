@@ -10,3 +10,11 @@ skills:
   - Geometric Design & Precision
 main-image: /JE Explosion.png
 ---
+
+![Jet Engine Isometric View](JE iso.png)
+
+![Jet Engine Exploded View](JE Explosion.png)
+
+![Jet Engine GD&T](JE GD&T.png)
+
+![Jet Engine Right side](JE Right side.png)
