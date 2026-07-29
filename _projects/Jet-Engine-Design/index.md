@@ -11,5 +11,5 @@ skills:
 main-image: /JE Explosion.png
 
 ##Related Images
-{% include image-gallery.html images="JE iso.png" height="400" %}
+! {% include image-gallery.html images="JE iso.png" height="400" %}
 ---
