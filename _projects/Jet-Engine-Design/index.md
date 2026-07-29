@@ -13,10 +13,11 @@ main-image: /JE Explosion.png
 
 ## Jet Engine CAD Model
 
-![Jet Engine Isometric View](JE iso.png)
 
-![Jet Engine Exploded View](JE Explosion.png)
+<img src="JE iso.png" alt="Jet Engine Isometric View">
 
-![Jet Engine GD&T](JE GD&T.png)
+<img src="JE Explosion.png" alt="Jet Engine Exploded View">
 
-![Jet Engine Right side](JE Right side.png)
+<img src="JE GD&T.png" alt="Jet Engine GD&T">
+
+<img src="JE Right side.png" alt="Jet Engine Right side">
