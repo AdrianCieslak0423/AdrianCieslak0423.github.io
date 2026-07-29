@@ -1,0 +1,19 @@
+---
+layout: wrapper
+---
+
+<article class="project-page">
+
+<h1>{{ page.title }}</h1>
+
+<p>{{ page.description }}</p>
+
+<div class="project-skills">
+{% for skill in page.skills %}
+<span class="skill">{{ skill }}</span>
+{% endfor %}
+</div>
+
+{{ content }}
+
+</article>
