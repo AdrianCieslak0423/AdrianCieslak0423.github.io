@@ -8,5 +8,5 @@ skills:
 - Finite Element Analysis (FEA)
 - System Testing & Validation
 - Design Validation & Engineering Documentation
-main-image: /
+main-image: /HS thermo.png
 ---
