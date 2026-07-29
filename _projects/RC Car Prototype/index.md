@@ -9,5 +9,5 @@ skills:
 - System Testing & Validation
 - SolidWorks
 - Assembly
-main-image: /assets/images/rc-car.jpg
+main-image: /project.webp
 ---
