@@ -9,7 +9,4 @@ skills:
   - Engineering Visualization
   - Geometric Design & Precision
 main-image: /JE Explosion.png
-
-##Related Images
-! {% include image-gallery.html images="JE iso.png" height="400" %}
 ---
