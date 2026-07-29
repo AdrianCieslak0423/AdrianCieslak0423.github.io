@@ -1,12 +1,15 @@
 ---
-layout: Project
+layout: project
 title: Jet Engine
-description:  Designed and assembled a complete jet turbine engine model in Siemens NX, modeling all major engine components from scratch into a detailed cross-sectional assembly that demonstrates the internal airflow path and mechanical architecture. This project strengthened advanced CAD modeling and assembly skills using professional NX tools and earned a 92% from an industry-experienced instructor.
-skills: 
-- Mechanical Assembly Design
-- Siemens NX
-- Technical Problem Solving
-- Engineering Visualization
-- Geometric Design & Precision
-main-image: /{% include image-gallery.html images="{JE iso.png},{JE Explosion.png}" height="400" %}
+permalink: /projects/jet-engine/
+description: Designed and assembled a complete jet turbine engine model in Siemens NX, modeling all major engine components from scratch into a detailed cross-sectional assembly that demonstrates the internal airflow path and mechanical architecture. This project strengthened advanced CAD modeling and assembly skills using professional NX tools and earned a 92% from an industry-experienced instructor.
+skills:
+  - Mechanical Assembly Design
+  - Siemens NX
+  - Technical Problem Solving
+  - Engineering Visualization
+  - Geometric Design & Precision
+main-image: JE iso.png
 ---
+
+{% include image-gallery.html images="JE iso.png,JE Explosion.png" height="400" %}
