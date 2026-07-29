@@ -18,7 +18,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Mechanical engineering student with hands-on experience in percision CNC machining, automation analysis, and process improvment at an aerospace manufacturer, as well as extensive CAD and FEA experience. Six Sigma certified with proficiency in SOlidWorks, Siemens NX and FEA.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/1785347413368.png
 
 
 # Link your resume
@@ -30,21 +30,14 @@ resume-url: https://docs.google.com/document/d/1yK8Cm2YEOKSaFGZQnNGsTU0SV8gg2ZUf
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: linkedin.com/in/adrian-cieslak-9785a4382
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
+  github: leea12    # https://github.com/AdrianCieslak0423
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
   - category: 3D Modeling and FEA
     tools:
+    -Thermal/convection analysis
     - Solidworks
     - Siemens NX
     - CATIA (Dassault Systèmes)
