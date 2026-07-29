@@ -29,7 +29,7 @@ resume-url: https://docs.google.com/document/d/1yK8Cm2YEOKSaFGZQnNGsTU0SV8gg2ZUf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: adrian-cieslak-9785a4382
+  linkedin: adrian-cieslak-9785a4382 # https://www.linkedin.com/in/{your url slug} 
   github: AdrianCieslak0423
   
 
