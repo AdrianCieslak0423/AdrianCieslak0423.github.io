@@ -37,7 +37,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling and FEA
     tools:
-    -Thermal/convection analysis
+    - Thermal/convection analysis
     - Solidworks
     - Siemens NX
     - CATIA (Dassault Systèmes)
