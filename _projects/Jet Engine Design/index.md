@@ -8,5 +8,5 @@ skills:
 - Technical Problem Solving
 - Engineering Visualization
 - Geometric Design & Precision
-main-image: /JE Explosion.png /JE GD&T.png /JE Right side.png
+main-image: /JE Explosion.png /JE GD&T.png /JE Right side.png /JE iso.png
 ---
