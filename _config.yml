@@ -30,7 +30,7 @@ resume-url: https://docs.google.com/document/d/1yK8Cm2YEOKSaFGZQnNGsTU0SV8gg2ZUf
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: adrian-cieslak-9785a4382 # https://www.linkedin.com/in/{your url slug} 
-  github: AdrianCieslak0423
+  github: AdrianCieslak0423          # https://github.com/{your url slug} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
