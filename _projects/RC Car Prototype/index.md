@@ -9,6 +9,5 @@ skills:
 - System Testing & Validation
 - SolidWorks
 - Assembly
-main-image: <img width="698" height="671" alt="rc car isometric" src="https://github.com/user-attachments/assets/996b770b-1840-47a2-9e3c-33fcd4be62a9" />
-
+main-image: <img width="217" height="232" alt="download" src="https://github.com/user-attachments/assets/ae3801da-ec0d-485d-bfe2-04e67c5296f5" /
 ---
