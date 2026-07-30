@@ -15,7 +15,13 @@ title: Adrian Cieslak's Portfolio
 name: Adrian Cieslak
 headline: Future Mechanical Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Mechanical engineering student with hands-on experience in percision CNC machining, automation analysis, and process improvment at an aerospace manufacturer, as well as extensive CAD and FEA experience. Six Sigma certified with proficiency in SolidWorks, Siemens NX and FEA.
+ I'm a Mechanical Engineering student at Central Connecticut State University, currently working as an Automation Engineering Intern at Hanwha Aerospace USA.
+
+I'm building toward a career in mechanical engineering, simulation, and manufacturing engineering within the aerospace/defense industry. I'm Six Sigma certified and currently working through SolidWorks (CSWA/CSWP) certification.
+
+Outside of coursework and internship work, I design and analyze my own projects, including a full jet engine CAD model, a water-cooled heat shield with FEA validation (achieving a passing factor of safety using Ti-6Al-4V and realistic thermal boundary conditions), an RC car, and my current project, a model rocket.
+
+I like solving problems that sit at the intersection of design, manufacturability, and real-world performance, and I'm always looking to get better at simulation and precision manufacturing along the way.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/1785347413368.png
