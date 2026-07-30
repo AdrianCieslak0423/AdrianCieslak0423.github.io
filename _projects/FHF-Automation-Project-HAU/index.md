@@ -9,5 +9,5 @@ skills:
   - Vendor Engagement/Technical Discussions
   - ROI/Quality-Improvement Presentation Development
   - NDA Handling
-main-image: /
+main-image: /Screenshot 2026-07-29 215359.png
 ---
