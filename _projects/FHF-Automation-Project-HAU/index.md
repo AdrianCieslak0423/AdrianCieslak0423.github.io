@@ -8,6 +8,6 @@ skills:
   - Precision Installation Tooling Research
   - Vendor Engagement/Technical Discussions
   - ROI/Quality-Improvement Presentation Development
-  - NDA Handling
+  - Confidentiality & Compliance Awareness
 main-image: /Screenshot 2026-07-29 215359.png
 ---
