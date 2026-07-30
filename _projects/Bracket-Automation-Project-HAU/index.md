@@ -9,5 +9,5 @@ skills:
   - Vendor/Equipment Evaluation
   - Technical Presentation Development
   - Process Throughput Analysis
-main-image: /
+main-image: /Screenshot 2026-07-29 215359.png
 ---
